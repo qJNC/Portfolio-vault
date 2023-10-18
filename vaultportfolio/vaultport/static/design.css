@@ -1,0 +1,43 @@
+body{
+    background-color:black;
+    color:greenyellow;
+}
+.im{
+    border-radius: 100%;
+}
+.f{
+    display :flex;
+    flex-wrap: wrap;
+
+}
+.s{
+    display :flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content: space-between;
+
+}
+.t{
+    display :flex;
+    flex-wrap: wrap;
+
+}
+.fo{
+    display :flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    
+
+}
+.fi{
+    display :flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    
+
+
+}
+.cont{
+    color:black;
+    font-size: 300%;
+}
